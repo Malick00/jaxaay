@@ -116,14 +116,13 @@
 								<a href="#"><i class="fa-brands fa-pinterest-p"></i></a>
 								<a href="#"><i class="fa-brands fa-instagram"></i></a>
 							</div>--><!-- cta-four-widget-socials -->
-						</div><!-- cta-four-content -->
-					</div><!-- col-12 col-lg-6 col-xl-2 -->
-				</div><!-- row -->
-			</div><!-- cta-four-inner -->
-		</div><!-- container -->
-	</div><!-- cta-four-section -->
-</div><!--page-wrapper-->	
-
+						<!--</div>--><!-- cta-four-content -->
+					 <!-- </div>col-12 col-lg-6 col-xl-2 -->
+				<!-- </div>row -->
+			<!-- </div>cta-four-inner -->
+		<!-- </div>container -->
+	<!-- </div>cta-four-section -->
+<!-- </div>page-wrapper	 -->
 
 <!--footerpc-->
 <section class="footer">
@@ -139,7 +138,7 @@
 			<span></span>
 		</a><!-- mobile-nav-close -->
 		<div class="logo-box">
-			<a href="index.html"><img src="assets/image/logo-light.png" width="160" height="40" alt="26"></a>
+			<a href="index.html"><img src="assets/image/logo.png" width="80" height="60" alt="26"></a>
 		</div><!-- logo-box -->
 		<div class="mobile-nav-container"></div><!-- mobile-nav-container -->
 		<ul class="mobile-nav-contact list-unstyled">

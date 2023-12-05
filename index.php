@@ -2,6 +2,7 @@
 <html lang="fr">
 <head>
 	<?php include ('layouts/head.php'); ?>
+	<title>Mairie Jaxaay || Accueil</title>
 </head>
 <body>
 <!-- Pre loader -->
@@ -393,29 +394,7 @@
 				</div><!-- section-title-box -->
 			</div><!--blog-box-->
 			<div class="row row-gutter-y-155">
-				<div class="col-lg-4">
-					<div class="blog-card">
-						<div class="blog-card-image">
-							<img src="assets/image/blog/blogus1.jpg" class="img-fluid" alt="img-22">
-							<a href=""></a>
-						</div><!-- blog-card-image -->
-						<div class="blog-card-date">
-							<a href="#">OCT2023</a>
-						</div><!-- blog-card-date -->
-						<div class="blog-card-content">
-							<div class="blog-card-meta">
-								<span class="author">
-									<a href="#">Jaxaay-Parcelles</a>
-								</span><!-- author -->
-								<!--<span class="comment">
-									<a href="news-details.html">02 Comments</a>
-								</span>--><!-- comment -->	
-							</div><!-- blog-card-meta -->
-							<h4><a href="#">Consultation Gratuite par des médecins espagnols</a></h4>
-							<p>L'ophtalmologie, la pédiatrie et la médecine générale étaient les spécialités proposées comme soins à la Poste de santé de la Cité Gendarmerie.</p>
-						</div><!-- blog-card-content -->
-					</div><!-- blog-card -->	
-				</div><!-- col-lg-4 -->
+			
 				<div class="col-lg-4">
 					<div class="blog-card">
 						<div class="blog-card-image">
@@ -458,7 +437,31 @@
 								</span>--><!-- comment -->	
 							</div><!-- blog-card-meta -->
 							<h4><a href="#">Travaux de remblayage des routes</a></h4>
-							<p>Ces travaux sont effectués par l'équipe technique municipale, qui travaille jour et nuit afin de agrantir des conditions de circulation plus sûres et agréables</p>
+							<p>Ces travaux sont effectués par l'équipe technique municipale, qui travaille jour et nuit afin de agrantir des 
+								conditions de circulation plus sûres et agréables</p>
+						</div><!-- blog-card-content -->
+					</div><!-- blog-card -->	
+				</div><!-- col-lg-4 -->
+				<div class="col-lg-4">
+					<div class="blog-card">
+						<div class="blog-card-image">
+							<img src="assets/image/blog/blogus1.jpg" class="img-fluid" alt="img-22">
+							<a href=""></a>
+						</div><!-- blog-card-image -->
+						<div class="blog-card-date">
+							<a href="#">OCT2023</a>
+						</div><!-- blog-card-date -->
+						<div class="blog-card-content">
+							<div class="blog-card-meta">
+								<span class="author">
+									<a href="#">Jaxaay-Parcelles</a>
+								</span><!-- author -->
+								<!--<span class="comment">
+									<a href="news-details.html">02 Comments</a>
+								</span>--><!-- comment -->	
+							</div><!-- blog-card-meta -->
+							<h4><a href="#">Consultation Gratuite par des médecins espagnols</a></h4>
+							<p>L'ophtalmologie, la pédiatrie et la médecine générale étaient les spécialités proposées comme soins à la Poste de santé de la Cité Gendarmerie.</p>
 						</div><!-- blog-card-content -->
 					</div><!-- blog-card -->	
 				</div><!-- col-lg-4 -->
@@ -522,7 +525,7 @@
 			</div><!--client-carousel owl-carousel owl-theme-->
 		</div>
 	</section>
-	<section class="event-section">
+	<section class="event-section" id="id_event-section">
 		<div class="container">
 			<div class="event-section-inner">
 				<div class="row">

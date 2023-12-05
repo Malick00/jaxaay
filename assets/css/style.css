@@ -1534,6 +1534,9 @@ a.search-toggler{
 .department-details-imgbox img{
 	width: 100%;
 }
+
+
+
 .department-details-img-icon{
 		position: absolute;
     bottom: -50px;
@@ -1542,21 +1545,33 @@ a.search-toggler{
     width: 100px;
     text-align: center;
     font-size: 50px;
-    background-color:var(--thm-primary);
+ /* background-color:var(--thm-primary); */
     line-height: 115px;
     border-radius: 50%;
     color: var(--thm-white);
 }
-.department-details-img-icon:hover{
+
+
+
+
+
+/*.department-details-img-icon:hover{
 	background-color: var(--thm-white);
 	box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.07);
 }
+*/
+
 .department-details-img-icon i{
 	color: var(--thm-white);
 }
-.department-details-img-icon:hover i{
+
+
+/*.department-details-img-icon:hover i{
 	color: var(--thm-primary);
 }
+*/
+
+
 .department-details-content-box h4{
 	margin-top: 23px;
 	font-size: 34px;
@@ -3467,7 +3482,7 @@ a.search-toggler{
 }
 @media only screen and (max-width: 991px) {
 	.cta-two-form-group{
-		width:100%%
+		width:100%
 	}
 }
 .cta-two-form-group .btn-primary{

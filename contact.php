@@ -2,6 +2,7 @@
 <html lang="fr">
 <head>
 	<?php include ('layouts/head.php'); ?>
+	<title>Contact</title>
 </head>
 <body>
 <!-- Pre loader -->

@@ -16,7 +16,7 @@
 								<i class="fa-solid fa-envelope"></i>
 							</div><!-- topbar-icon -->
 							<div class="topbar-text">
-								<a href="mailto:needhelp@company.com">contact@jaaxay.sn</a>
+								<a href="mailto:contact@jaxaayparcelles.sn">contact@jaxaayparcelles.sn</a>
 							</div><!-- topbar-text -->
 						</li><!-- li -->
 						<li>
@@ -34,7 +34,7 @@
 			<div class="topbar-right">
 				<ul>
 					<li><a href="#">Urbanisme</a></li>
-					<li><a href="#">Impôts</a></li>
+					<li><a href="#">Social</a></li>
 				</ul><!-- ul -->
 			</div><!--topbar-right-->
 		</div><!-- topbar-inner -->

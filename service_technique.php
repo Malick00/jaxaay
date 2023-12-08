@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
 	<?php include ('layouts/head.php'); ?>
-	<title>Division des recettes</title>
+	<title>Service technique</title>
 </head>
 <body>
 <!-- Pre loader -->
@@ -27,7 +27,7 @@
 			<!--</div>--><!-- page-breadcrumbs -->
 			<br></br>
 			<div class="page-banner-title">
-				<h3 style='color:#003b49;'>Division des recettes</h3>
+				<h3 style='color:#003b49;'>Service technique</h3>
 			</div><!-- page-banner-title -->
 		</div>	<!-- container -->		
 	</section><!--page-banner-->
@@ -36,7 +36,7 @@
 			<div class="row">
 				<div class="col-lg-8">
 					<div class="service-details-image">
-						<img src="assets/image/services/etat_civil.jpg" class="img-fluid" alt="img-146">
+						<img src="assets/image/services/service_technique.jpg" class="img-fluid" alt="img-146">
 					</div><!-- service-details-image -->
 
 
@@ -86,18 +86,6 @@
 									</div><!-- service-details-content -->
 								</div><!-- service-details-box -->
 							</div><!--col-lg-6-->
-
-							<div class="col-lg-6">
-								<div class="service-details-box">
-									<div class="service-details-icon">
-										<a href="service-details.html"><i class="flaticon-art"></i></a>
-									</div><!-- service-details-icon -->
-									<div class="service-details-content">
-										<h4><a href="service-details.html">Certificat de décès</a></h4>
-										<p>There are many of of lorem Ipsum, but the majori have suffered alteration in some form.</p>
-									</div><!-- service-details-content -->
-								</div><!-- service-details-box -->
-							</div><!--col-lg-6-->
 						</div><!-- row g-0 -->
 					</div><!-- service-details-box-inner -->
 
@@ -115,9 +103,9 @@
 						<div class="sidebar-widget-list-inner">
 							<ul>
 								
-								<li><a href="service-details.html">Secrétariat général<i class="fa-solid fa-arrow-right-long"></i></a></li>
-								<li><a href="service-details.html">Division des recettes<i class="fa-solid fa-arrow-right-long"></i></a></li>
-								<li><a href="service-details.html">Service technique<i class="fa-solid fa-arrow-right-long"></i></a></li>
+								
+								<li><a href="etat_civil">État civil<i class="fa-solid fa-arrow-right-long"></i></a></li>
+								<li><a href="recettes">Division des recettes<i class="fa-solid fa-arrow-right-long"></i></a></li>
 								<!-- <li><a href="service-details.html">Roads & Transportation<i class="fa-solid fa-arrow-right-long"></i></a></li> -->
 								
 							
@@ -179,7 +167,7 @@
 			</li><!-- li -->
 			<li>
 				<i class="fa-solid fa-map-marker-alt"></i>
-				Jaxaay-Parcelles <br> Keur Massar, Sénégal
+				Jaxaay <br> Keur Massar, Sénégal
 			</li><!-- li -->
 		</ul><!-- mobile-nav-contact -->
 		<ul class="mobile-nav-social list-unstyled">

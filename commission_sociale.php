@@ -38,10 +38,10 @@
 					<div class="sidebar">
 						<div class="sidebar-widget-list-inner">
 							<ul>
-								<li><a href="services.html">Gestion & Administration<i class="fa-solid fa-arrow-right-long"></i></a></li>
-								<li><a href="services.html">Développement Urbain<i class="fa-solid fa-arrow-right-long"></i></a></li>
-								<li><a href="services.html">Communication et Coopération<i class="fa-solid fa-arrow-right-long"></i></a></li>
-								<li><a href="services.html">Promotion de l'Entrepreneuriat<i class="fa-solid fa-arrow-right-long"></i></a></li>
+							<li><a href="commission_com&cooperation">Communication & Coopération<i class="fa-solid fa-arrow-right-long"></i></a></li>
+								<li><a href="commission_gestion&adminis">Gestion & Administration<i class="fa-solid fa-arrow-right-long"></i></a></li>
+								<li><a href="commission_developurbain">Développement Urbain<i class="fa-solid fa-arrow-right-long"></i></a></li>
+								<li><a href="commission_entrepreneuriat">Promotion de l'Entrepreneuriat<i class="fa-solid fa-arrow-right-long"></i></a></li>
 								<!-- <li><a href="services.html">Art and Culture<i class="fa-solid fa-arrow-right-long"></i></a></li> -->
 								<!-- <li><a href="services.html">Roads & Transport<i class="fa-solid fa-arrow-right-long"></i></a></li> -->
 							</ul><!-- ul -->

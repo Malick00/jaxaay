@@ -20,10 +20,11 @@
 						<div class="footer-widget-explore">
 							<h4 class="footer-widget-title">Municipalité</h4>
 							<ul class="list-unstyled">
-								<li><a href="service-details.html">État civil</a></li>
-								<li><a href="event-details.html">Signalements</a></li>
-								<li><a href="team-details.html"></a></li>
-								<li><a href="contact.html">Contact</a></li>
+								<li><a href="etat_civil">État civil</a></li>
+								<li><a href="">Signalements</a></li>
+								<li><a href="recettes">Division des recettes</a></li>
+								<li><a href="service_technique">Service technique</a></li>
+								<li><a href="contact">Contact</a></li>
 								
 							</ul><!-- list-unstyled -->
 						</div><!-- footer-widget-explore -->
@@ -34,11 +35,11 @@
 						<div class="footer-widget-department">
 							<h4 class="footer-widget-title">Commissions</h4>
 							<ul class="list-unstyled">
-								<li><a href="department-details.html">Sociale, Culturelle & Éducative</a></li>
-								<li><a href="department-details.html">Gestion & Administration</a></li>
-								<li><a href="department-details.html">Développement Urbain</a></li>
-								<li><a href="department-details.html">Communication et Coopération</a></li>
-								<li><a href="department-details.html">Promotion de l'Entrepreneuriat</a></li>
+								<li><a href="commission_sociale">Sociale, Culturelle & Éducative</a></li>
+								<li><a href="commission_gestion&adminis">Gestion & Administration</a></li>
+								<li><a href="commission_developurbain">Développement Urbain</a></li>
+								<li><a href="commission_com&cooperation">Communication et Coopération</a></li>
+								<li><a href="commission_entrepreneuriat">Promotion de l'Entrepreneuriat</a></li>
 							</ul><!-- list-unstyled -->
 						</div><!-- footer-widget-department -->
 					</div><!--footer-widget-->

@@ -1,7 +1,7 @@
 <div class="navigation">
     <ul class="main-menu-list list-unstyled">
         <li>
-            <a href="#">Accueil</a>
+            <a href="index">Accueil</a>
             <!-- <ul class="list-unstyled">
                 <li><a href="index.html">Home 1</a></li>
                 <li><a href="index-2.html">Home 2</a></li>
@@ -11,15 +11,16 @@
         <li class="has-dropdown">
             <a href="#">Municipalité</a>
             <ul class="list-unstyled">
-                <li><a href="portfolio.html">Le Maire</a>
+                <li><a href="Lemaire">Le Maire</a>
                     <!--<ul class="list-unstyled">
                         <li><a href="portfolio.html">Portfolio</a></li>
                         <li><a href="portfolio-details.html">Portfolio Details</a></li>
                         <li><a href="portfolio-details-2.html">Portfolio Details 2</a></li>
                     </ul>--><!-- list-unstyled -->
                 </li>
-                <li><a href="#">Les élu(e)s</a></li>
-                <li><a href="team.html">Signalements</a>
+                <li><a href="adjoints">Les élu(e)s</a></li>
+                <li><a href="secretariat">Sécrétariat Général</a></li>
+                <li><a href="">Signalements</a>
                     <!--<ul class="list-unstyled">
                         <li><a href="team.html">Team</a></li>
                         <li><a href="team-details.html">Team Details</a></li>
@@ -48,10 +49,10 @@
         <li class="active has-dropdown">
             <a href="#">Services</a>
             <ul class="list-unstyled">
-                <li><a href="#">Sécrétariat Générale</a></li>
-                <li><a href="#">État Civil</a></li>
-                <li><a href="#">Division des recettes</a></li>
-                <li><a href="#">Service technique</a></li>
+                
+                <li><a href="etat_civil">État Civil</a></li>
+                <li><a href="recettes">Division des recettes</a></li>
+                <li><a href="service_technique">Service technique</a></li>
 
 
 
@@ -64,21 +65,21 @@
         <li class="has-dropdown">
             <a href="#">Commissions</a>
             <ul class="list-unstyled">
-                <li><a href="events.html">Sociale Culturelle & Éducative</a></li>
-                <li><a href="event-details.html">Gestion & Administration</a></li>
-                <li><a href="events.html">Développement Urbain</a></li>
-                <li><a href="event-details.html">Communication et Coopération</a></li>
-                <li><a href="events.html">Promotion de l'Entrepreneuriat</a></li>
+                <li><a href="commission_sociale">Sociale Culturelle & Éducative</a></li>
+                <li><a href="commission_gestion&adminis">Gestion & Administration</a></li>
+                <li><a href="commission_developurbain">Développement Urbain</a></li>
+                <li><a href="commission_com&cooperation">Communication et Coopération</a></li>
+                <li><a href="commission_entrepreneuriat">Promotion de l'Entrepreneuriat</a></li>
             </ul><!-- list-unstyled -->
         </li><!--has-dropdown-->
         <li>
-            <a href="">Actus & Réalisations</a>
+            <a href="actus&realisations">Actus & Réalisations</a>
             <!--<ul class="list-unstyled">
                 <li><a href="news.html">News</a></li>
                 <li><a href="news-details.html">News Details</a></li>
             </ul>--><!-- list-unstyled -->
         </li><!--has-dropdown-->
-        <li><a href="contact.html">Contact</a>
+        <li><a href="contact">Contact</a>
         </li><!-- li -->
     </ul><!-- main-menu-list -->
 </div>

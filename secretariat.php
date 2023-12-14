@@ -95,9 +95,21 @@
 				<div class="col-12 col-lg-12">
 					<div class="team-details-biography-content">
 						<div class="team-details-title">
-							<h3>Biography</h3>
+							<h3>Secrétariat Général</h3>
 						</div><!-- team-details-title -->
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen vived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  Architecto beatae vitae dicta sunt explicabo.</p>
+						<p>Bienvenue sur la page du Secrétariat Général de la Mairie 
+							de Jaxaay-Parcelles, votre point central pour l'accès à des 
+							informations cruciales et aux services administratifs. 
+							<br>Sous la direction du Secrétaire Général, cette entité joue un rôle essentiel dans la coordination 
+							efficace des activités administratives au sein de notre commune.
+						</p>
+						<p>
+						Le Secrétariat Général joue un rôle essentiel dans la gestion 
+						quotidienne de la municipalité.<br>En tant qu'organe administratif central, 
+						notre mission est d'assurer une coordination efficace entre les différents
+						 services municipaux, de gérer la correspondance officielle, et de 
+						garantir le bon fonctionnement des activités administratives.
+						</p>	
 					</div><!--team-details-biography-content-->
 				</div><!--col-12 col-lg-12-->
 			</div><!-- row -->
@@ -105,10 +117,26 @@
 	</section><!-- team-details-biography-section -->
 	<section class="team-progress-section">
 		<div class="container">
-			<h3>Professional Skills</h3>
+			<h3>Nos Missions</h3>
 			<div class="row row-gutter-y-30">
 				<div class="col-lg-6">
-					<div class="team-progressbar-text">Crisis Management</div><!-- team-progressbar-text -->
+					<div class="team-progressbar-text">Gestion des Dossiers Municipaux</div><!-- team-progressbar-text -->
+					<div class="team-progressbar">
+						<div class="team-progressbar-inner count-box" data-percentage="95%">
+							<div class="team-progressbar-inner-text count-text">95%</div><!-- team-progressbar-inner-text -->
+						</div><!-- team-progressbar-inner -->
+					</div><!-- team-progressbar -->
+				</div><!--col-lg-6-->
+				<div class="col-lg-6">
+					<div class="team-progressbar-text">Coordination des Réunions</div><!-- team-progressbar-text -->
+					<div class="team-progressbar">
+						<div class="team-progressbar-inner count-box" data-percentage="80%">
+							<div class="team-progressbar-inner-text count-text">80%</div><!-- team-progressbar-inner-text -->
+						</div><!-- team-progressbar-inner -->
+					</div><!-- team-progressbar -->
+				</div><!--col-lg-6-->
+				<div class="col-lg-6">
+					<div class="team-progressbar-text">Communication Officielle</div><!-- team-progressbar-text -->
 					<div class="team-progressbar">
 						<div class="team-progressbar-inner count-box" data-percentage="90%">
 							<div class="team-progressbar-inner-text count-text">90%</div><!-- team-progressbar-inner-text -->
@@ -116,26 +144,10 @@
 					</div><!-- team-progressbar -->
 				</div><!--col-lg-6-->
 				<div class="col-lg-6">
-					<div class="team-progressbar-text">Problem Solving</div><!-- team-progressbar-text -->
+					<div class="team-progressbar-text">Documentation des décisions</div><!-- team-progressbar-text -->
 					<div class="team-progressbar">
-						<div class="team-progressbar-inner count-box" data-percentage="50%">
-							<div class="team-progressbar-inner-text count-text">28%</div><!-- team-progressbar-inner-text -->
-						</div><!-- team-progressbar-inner -->
-					</div><!-- team-progressbar -->
-				</div><!--col-lg-6-->
-				<div class="col-lg-6">
-					<div class="team-progressbar-text">Public Speaking</div><!-- team-progressbar-text -->
-					<div class="team-progressbar">
-						<div class="team-progressbar-inner count-box" data-percentage="46%">
-							<div class="team-progressbar-inner-text count-text">46%</div><!-- team-progressbar-inner-text -->
-						</div><!-- team-progressbar-inner -->
-					</div><!-- team-progressbar -->
-				</div><!--col-lg-6-->
-				<div class="col-lg-6">
-					<div class="team-progressbar-text">Strategy Planning</div><!-- team-progressbar-text -->
-					<div class="team-progressbar">
-						<div class="team-progressbar-inner count-box" data-percentage="60%">
-							<div class="team-progressbar-inner-text count-text">28%</div><!-- team-progressbar-inner-text -->
+						<div class="team-progressbar-inner count-box" data-percentage="89%">
+							<div class="team-progressbar-inner-text count-text">89%</div><!-- team-progressbar-inner-text -->
 						</div><!-- team-progressbar-inner -->
 					</div><!-- team-progressbar -->
 				</div><!--col-lg-6-->

@@ -19,8 +19,9 @@
                     </ul>--><!-- list-unstyled -->
                 </li>
                 <li><a href="adjoints">Les élu(e)s</a></li>
-                <li><a href="secretariat">Sécrétariat Général</a></li>
-                <li><a href="">Signalements</a>
+                <li><a href="">Chef de cabinet</a></li>
+                <li><a href="">Chargé de com & relations extérieures</a></li>
+                <li><a href="#">Signalements</a>
                     <!--<ul class="list-unstyled">
                         <li><a href="team.html">Team</a></li>
                         <li><a href="team-details.html">Team Details</a></li>
@@ -65,11 +66,47 @@
         <li class="has-dropdown">
             <a href="#">Commissions</a>
             <ul class="list-unstyled">
-                <li><a href="commission_sociale">Sociale Culturelle & Éducative</a></li>
-                <li><a href="commission_gestion&adminis">Gestion & Administration</a></li>
-                <li><a href="commission_developurbain">Développement Urbain</a></li>
-                <li><a href="commission_com&cooperation">Communication et Coopération</a></li>
-                <li><a href="commission_entrepreneuriat">Promotion de l'Entrepreneuriat</a></li>
+                <li><a href="commission_sociale">Sociale Culturelle & Éducative</a>
+                    <ul class="list-unstyled">
+                        <li><a href="">Education Alphabétisation & modernisation des langues nationales</a></li>
+                        <li><a href="">Jeunesse, Sport Culture et Loisirs</a></li>
+                        <li><a href="">Artisanat et commerce</a></li>
+                        <li><a href="">Affaires Sociales</a></li>
+                        <li><a href="">Affaires Religieuses et coutumières</a></li>
+                    </ul><!-- list-unstyled -->
+            
+                </li>
+                <li><a href="commission_gestion&adminis">Gestion & Administration</a>
+
+                <ul class="list-unstyled">
+                        <li><a href="team.html">Team</a></li>
+                        <li><a href="team-details.html">Team Details</a></li>
+                    </ul><!-- list-unstyled -->
+
+                </li>
+                <li><a href="commission_developurbain">Développement Urbain</a>
+                <ul class="list-unstyled">
+                        <li><a href="team.html">Team</a></li>
+                        <li><a href="team-details.html">Team Details</a></li>
+                    </ul><!-- list-unstyled -->
+            
+                </li>
+
+                <li><a href="commission_com&cooperation">Communication et Coopération</a>
+                <ul class="list-unstyled">
+                        <li><a href="team.html">Team</a></li>
+                        <li><a href="team-details.html">Team Details</a></li>
+                </ul><!-- list-unstyled -->
+               
+            
+                </li>
+                <li><a href="commission_entrepreneuriat">Promotion de l'Entrepreneuriat</a>
+                <ul class="list-unstyled">
+                        <li><a href="team.html">Team</a></li>
+                        <li><a href="team-details.html">Team Details</a></li>
+                </ul><!-- list-unstyled -->
+            
+                </li>
             </ul><!-- list-unstyled -->
         </li><!--has-dropdown-->
         <li>

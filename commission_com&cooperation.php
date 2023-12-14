@@ -52,7 +52,7 @@
 							</div><!-- sidebar-widget-card-icon -->
 							<div class="sidebar-widget-card-content">
 								<h3><a href="contact.html">Plus d'informations?</a></h3>
-								<p>Contactez Mr. B au 77534</p>
+								<p>Contactez le cabinet à contact@jaxaayparcelles.sn ou au 33 875 27 42</p>
 							</div><!-- sidebar-widget-card-content -->
 						</div><!-- sidebar-widget sidebar-widget-card -->
 						<!-- <div class="sidebar-widget"> -->

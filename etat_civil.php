@@ -43,6 +43,12 @@
 					<div class="service-details-image">
 						<img src="assets/image/services/etat_civil.jpg" class="img-fluid" alt="img-146">
 					</div><!-- service-details-image -->
+					
+					
+					
+					<br>					
+					<h3>Quels sont les documents à fournir pour obtenir un...?</h3>
+
 
 					<div class="service-details-box-inner">
 						<div class="row g-0">
@@ -52,8 +58,24 @@
 										<a href="service-details.html"><i class="flaticon-team"></i></a>
 									</div><!-- service-details-icon -->
 									<div class="service-details-content">
-										<h4><a href="service-details.html">Certificat de mariage</a></h4>
-										<p>There are many of of lorem Ipsum, but the majori have suffered alteration in some form.</p>
+										<h4><a href="">Certificat de mariage</a></h4>
+										<p>Fournir une des pièces suivantes:</p>
+										<br>
+								<ul class="list-unstyled list-style-two">
+						<li>
+							<i class="fa-solid fa-circle-arrow-right"></i>
+							<h5>Le volet n° 1 de l'acte de mariage</h5>
+						</li><!-- li -->
+						<li>
+							<i class="fa-solid fa-circle-arrow-right"></i>
+							<h5>Un livret de famille</h5>
+						</li><!-- li -->
+						<li>
+							<i class="fa-solid fa-circle-arrow-right"></i>
+							<h5>Une ancienne copie de l'acte de mariage</h5>
+						</li><!-- li -->
+										</ul>
+
 									</div><!-- service-details-content -->
 								</div><!-- service-details-box -->
 							</div><!--col-lg-6-->
@@ -63,8 +85,33 @@
 										<a href="service-details.html"><i class="flaticon-art"></i></a>
 									</div><!-- service-details-icon -->
 									<div class="service-details-content">
-										<h4><a href="service-details.html">Extrait de naissance</a></h4>
-										<p>There are many of of lorem Ipsum, but the majori have suffered alteration in some form.</p>
+									<h4><a href="">Extrait de naissance</a></h4>
+										<p>Fournir une des pièces suivantes:</p>
+										<br>
+								<ul class="list-unstyled list-style-two">
+						<li>
+							<i class="fa-solid fa-circle-arrow-right"></i>
+							<h5>Le volet n° 1 de l'acte de naissance</h5>
+						</li><!-- li -->
+						<li>
+							<i class="fa-solid fa-circle-arrow-right"></i>
+							<h5>Une copie littérale d'acte de naissance</h5>
+						</li><!-- li -->
+						<li>
+							<i class="fa-solid fa-circle-arrow-right"></i>
+							<h5>Un bulletin de naissance</h5>
+						</li><!-- li -->
+
+						<li>
+							<i class="fa-solid fa-circle-arrow-right"></i>
+							<h5>Un extrait d'acte de naissance</h5>
+						</li><!-- li -->
+						<li>
+							<i class="fa-solid fa-circle-arrow-right"></i>
+							<h5>Le livret de famille</h5>
+						</li><!-- li -->
+	
+										</ul>
 									</div><!-- service-details-content -->
 								</div><!-- service-details-box -->
 							</div><!--col-lg-6-->
@@ -75,8 +122,32 @@
 										<a href="service-details.html"><i class="flaticon-art"></i></a>
 									</div><!-- service-details-icon -->
 									<div class="service-details-content">
-										<h4><a href="service-details.html">Certificat de décès</a></h4>
-										<p>There are many of of lorem Ipsum, but the majori have suffered alteration in some form.</p>
+									<h4><a href="">Certificat de décès</a></h4>
+										<p>Fournir une des pièces suivantes:</p>
+										<br>
+								<ul class="list-unstyled list-style-two">
+						<li>
+							<i class="fa-solid fa-circle-arrow-right"></i>
+							<h5>Le volet n° 1 de l'acte de décès</h5>
+						</li><!-- li -->
+						<li>
+							<i class="fa-solid fa-circle-arrow-right"></i>
+							<h5>Une copie littérale d'acte de décès</h5>
+						</li><!-- li -->
+						<li>
+							<i class="fa-solid fa-circle-arrow-right"></i>
+							<h5>Un ancien extrait d'acte de décès</h5>
+						</li><!-- li -->
+						<li>
+							<i class="fa-solid fa-circle-arrow-right"></i>
+							<h5>Le livret de famille</h5>
+						</li><!-- li -->
+					
+
+
+
+
+										</ul>
 									</div><!-- service-details-content -->
 								</div><!-- service-details-box -->
 							</div><!--col-lg-6-->
@@ -89,37 +160,59 @@
 
 
 
-					<div class="service-details-content-box">
+					<!--<div class="service-details-content-box">
 						<h3 class="service-details-title">Démarches</h3>
 						<p>There are many variations of passages of lorem ipsum is simply free text available in the market, but the majority time you put aside to be in our office. Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 						<h4>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.</h4>
 						<p>Vel illum qui dolorem eum fugiat quo voluptas nulla pariatur iste natus error sit voluptatem accusantium totam rem aperiam, eaque ipsa quae.</p>
-					</div><!-- service-details-content-box -->
-					<h2 class="service-details-title">Goverment Jobs Fecilities:</h2>
+					</div>--><!-- service-details-content-box -->
+					<h2 class="service-details-title">Services et Responsabilités:</h2>
 					<ul class="list-unstyled list-style-two">
 						<li>
 							<i class="fa-solid fa-circle-arrow-right"></i>
-							<h5>Every pleasure is to be welcomed & every pain get avoided.</h5>
+							<h5>Enregistrement des Événements de la Vie</h5>
 						</li><!-- li -->
+						<p>
+
+						L'État Civil de Jaxaay-Parcelles assure la consignation précise de 
+						tous les événements civils, qu'il s'agisse de naissances, mariages, divorces, adoptions ou décès. Chaque 
+						étape de la vie est soigneusement documentée pour des générations futures.
+						</p>
 						<li>
 							<i class="fa-solid fa-circle-arrow-right"></i>
-							<h5>Laborious physical exercise, except to obtain some advantage from.</h5>
+							<h5>Documents Officiels</h5>
 						</li><!-- li -->
+
+					<p>
+						 En plus des certificats de naissance, mariage et décès, nous fournissons une gamme de 
+						 documents officiels, tels que des attestations, des extraits d'actes,des bulletins, 
+						 et d'autres formulaires nécessaires pour diverses démarches administratives.
+					</p>
 						<li>
 							<i class="fa-solid fa-circle-arrow-right"></i>
-							<h5>Quisque tincidunt eros ac place viverra simply free text.</h5>
+							<h5>Conseils et Accompagnement</h5>
 						</li><!-- li -->
+						<p>
+							Notre équipe dévouée est là pour vous guider à travers les 
+							procédures administratives liées à l'État Civil. Que ce soit pour 
+							des changements de statut civil, des démarches 
+							spécifiques, ou des conseils généraux, nous sommes à votre disposition.
+						</p>
 					</ul><!-- ul -->
 
 
 					
-					<p>There are many variations of passages of lorem 
-						ipsum is simply free text available in the market, 
-						but the majority time you put aside to be in our office. 
-						Lorem ipsum dolor sit amet, consectetLorem ipsum dolor sit 
-						amet, consectetur adipisicing elit, sed do eiusmod tempor 
-						incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing 
-						elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+					<p>L'État Civil est le socle de la citoyenneté. Nous encourageons 
+						la participation active de chaque citoyen en les informant sur 
+						l'importance de l'inscription et en facilitant 
+						l'accès aux documents nécessaires pour exercer pleinement 
+						leurs droits civiques.</p>
+						<p>
+							À la Mairie de Jaxaay-Parcelles, l'État Civil n'est pas simplement une formalité,
+							 mais un service dédié à la préservation de votre histoire et à la 
+							 promotion de la citoyenneté active. Nous sommes fiers d'être votre 
+							 partenaire à chaque étape significative de votre vie.
+						</p>
 				</div><!-- col-lg-8 -->
 				<div class="col-12 col-lg-4 col-xl-4">
 					<div class="sidebar">

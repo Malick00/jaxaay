@@ -56,12 +56,12 @@
 								<a href="mailto:
 contact@jaaxayparcelles.sn">
 contact@jaaxayparcelles.sn</a>
-							</div><!-- footer-widget-contact-item -->
+							</div><!-- footer-widget-contact-item -->'
 						</div><!-- footer-widget-contact-list -->
 						<div class="footer-widget-contact-list">
 							<i class="fa-solid fa-phone"></i>
 							<div class="footer-widget-contact-item">
-								<a href="tel:+22133823">+221 33 823 </a>
+								<a href="tel:+221338752742">33 875 27 42</a>
 							</div><!-- footer-widget-contact-item -->
 						</div><!-- footer-widget-contact-list -->
 					</div><!--footer-widget-->
